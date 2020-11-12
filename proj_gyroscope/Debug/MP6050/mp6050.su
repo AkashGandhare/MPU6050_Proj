@@ -1,0 +1,11 @@
+mp6050.c:63:6:init_mpu6050	56	static
+mp6050.c:112:7:mpu_readTemp	48	static
+mp6050.c:129:9:getTemp	16	static
+mp6050.c:139:6:mpu_readGyroscope	64	static
+mp6050.c:161:9:read_Gyro_X	16	static
+mp6050.c:168:9:read_Gyro_Y	16	static
+mp6050.c:175:9:read_Gyro_Z	16	static
+mp6050.c:186:6:mpu_readAccel	64	static
+mp6050.c:209:9:read_accel_X	16	static
+mp6050.c:216:9:read_accel_Y	16	static
+mp6050.c:223:9:read_accel_Z	16	static
